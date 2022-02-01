@@ -1,6 +1,7 @@
 # winoearn
 
 Termux Commands for btc Mining: 
+
 pkg install php
 
 pkg install nano
